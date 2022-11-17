@@ -1,1 +1,1 @@
-# Integral
+# Integral Tentu Eksponensial
